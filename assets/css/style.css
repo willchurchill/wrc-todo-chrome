@@ -1,0 +1,103 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(fonts/Montserrat-Regular.ttf);
+}
+
+body,.site-container{
+    padding:0; margin:0;
+    height: 100vh;
+    width: 100vw;
+    font-family: Montserrat, Helvetica, sans-serif;
+}
+
+#site-container{
+    display: grid;
+    grid-template-columns: 1fr 1000px 1fr;
+    grid-template-rows: 1fr 1fr 1fr 50px;
+    align-items: center;
+    background-color: #FAF9F6;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* HIDDEN ELEMENTS */
+#list-now,#list-next,#list-later{
+    display: none;
+}
+#current-view{
+    display: none;
+}
+
+/* TITLE */
+.site-title{
+    grid-column: 2/3;
+    grid-row: 1/2;
+    text-align: center;
+    font-size: 2em;
+    color:white;
+    -webkit-text-stroke: 2px black;
+}
+
+.active-list-header{
+    font-size: 2em;
+}
+
+/* MAIN BODY */
+#site-splash,#list-now,#list-next,#list-later{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+.list-container{
+    text-align: center;
+}
+
+.listinput{
+    width:90%;
+    font-size: 1em;
+    line-height: 1.2em;
+    padding:10px;
+    border-radius: 5px;
+    margin:5px 0;
+    border: 0;
+}
+#splashpageinput{
+    width:100%;
+    font-size:2em;
+    line-height:2.5em;
+    padding:20px;
+    border-radius:5px;
+    margin:5px 0;
+    border: 0;
+}
+
+.tick,.nowarrow,.nextarrow,.laterarrow{
+    height: 1.2em;
+    cursor: pointer;
+}
+.splasharrow{
+    height: 5em;
+    margin: 2em;
+    cursor: pointer;
+}
+
+#list-link-now,#list-link-next,#list-link-later{
+    cursor: pointer;
+}
+
+/* FOOTER */
+.wrc-footer{
+    grid-column: 1/3;
+    grid-row: 4/5;
+    text-align: left;
+    margin:20px;
+    font-size: 1.2em;
+}
+.links-footer{
+    grid-column: 2/4;
+    grid-row: 4/5;
+    text-align: right;
+    margin:20px;
+    font-size: 1.2em;
+}
