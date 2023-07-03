@@ -43,6 +43,8 @@ Any questions or concerns can be directed to [will@willrc.co.uk](mailto:will@wil
 You can also view the Privacy Policy for the extension [here](https://github.com/willchurchill/nownextlater/blob/main/privacy-policy.md).
 
 # Changelog
+## v0.2 - June 2023
+Corrected error with Readme and Privacy Policy links.
 
 ## v0.1 - June 2023
 The first commit of the NowNextLater extension, with all basic functionality in place.
