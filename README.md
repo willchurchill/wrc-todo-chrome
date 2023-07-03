@@ -40,7 +40,7 @@ We reserve the right to change this policy as we deem necessary, alongside the f
 
 Any questions or concerns can be directed to [will@willrc.co.uk](mailto:will@willrc.co.uk)
 
-You can also view the Privacy Policy for the extension [here](https://github.com/willchurchill/nownextlater/blob/main/privacy-policy.md).
+You can also view the Privacy Policy for the extension [here](https://github.com/willchurchill/wrc-nownextlater-chrome/blob/main/privacy-policy.md).
 
 # Changelog
 ## v0.2 - June 2023
