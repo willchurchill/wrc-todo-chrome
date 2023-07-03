@@ -1,7 +1,7 @@
 {
     "name": "NowNextLater Extension",
     "description": "Simple task tracker. Extension by Will Ranjan-Churchill.",
-    "version": "0.1",
+    "version": "0.2",
     "manifest_version": 3,
     "icons": { 
         "16": "assets/images/icon16.png",
