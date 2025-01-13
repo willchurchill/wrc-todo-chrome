@@ -18,4 +18,4 @@ We reserve the right to change this policy as we deem necessary, alongside the f
 
 ## Contact
 
-Any questions or concerns can be directed to [will@copyandcode.co.uk](mailto:will@copyandcode.co.uk)
+Any questions or concerns can be directed to [will@willrc.co.uk](mailto:will@willrc.co.uk)
